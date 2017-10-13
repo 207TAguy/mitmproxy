@@ -3,7 +3,7 @@
 Installation
 ============
 
-Please follow the steps for your operating system.
+Pretty please!! follow the steps for your operating system.
 
 Once installation is complete, you can run :ref:`mitmproxy`, :ref:`mitmdump` or
 :ref:`mitmweb` from a terminal.
